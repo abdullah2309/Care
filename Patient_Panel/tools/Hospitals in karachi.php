@@ -1,7 +1,7 @@
 
 <?php
   session_start();
-  ?>
+?>
   <?php
       include('connection.php');
       $query = "select * from  hospital_karachi";
