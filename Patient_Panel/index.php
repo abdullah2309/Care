@@ -203,9 +203,7 @@
     <!-- end slider section -->
   </div>
 
-
-  <!-- department section -->
-
+  <!-- department   section -->
   <section class="department_section layout_padding">
     <div class="department_container">
       <div class="container ">
